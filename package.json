@@ -1,7 +1,10 @@
 {
-  "name": "aws-sdk-v3-iam-examples",
+  "name": "play-aws-sdk",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "test": "ts-node ./src/sample.ts"
+  },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.3.0",
     "@aws-sdk/node-http-handler": "^3.3.0",
