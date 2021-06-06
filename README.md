@@ -76,4 +76,3 @@ Amazon ECS can be used along with the following AWS services:
 - Amazon Elastic Container Registry
 - AWS CloudFormation
   
-  
