@@ -6,7 +6,7 @@
     "test": "ts-node ./src/sample.ts"
   },
   "dependencies": {
-    "@aws-sdk/client-s3": "^3.3.0",
+    "@aws-sdk/client-s3": "^3.1166.0",
     "@aws-sdk/node-http-handler": "^3.3.0",
     "@aws-sdk/types": "^3.3.0",
     "ts-node": "^9.0.0"
